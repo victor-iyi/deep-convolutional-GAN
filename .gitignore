@@ -149,7 +149,7 @@ Temporary Items
 .apdisk
 
 
-### Tensorboard
-tensorboard/*
-chkpt/*
-chkpt copy/*
+### Logs and data
+data/
+chkpt/
+tensorboard/
