@@ -150,6 +150,6 @@ Temporary Items
 
 
 ### Logs and data
-data/
-chkpt/
+datasets/
+models/
 tensorboard/
