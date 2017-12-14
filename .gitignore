@@ -21,14 +21,8 @@ __pycache__/
 
 
 ### VisualStudioCode template
-.vscode/
-#!.vscode/settings.json
-#!.vscode/tasks.json
-#!.vscode/launch.json
-#!.vscode/extensions.json
+.vscode
 
-
-### Logs and data
+### Saved files and datasets
 datasets/
-models/
-tensorboard/
+saved
